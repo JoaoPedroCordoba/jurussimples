@@ -1,0 +1,2 @@
+# jurussimples
+exercício jurus simples
